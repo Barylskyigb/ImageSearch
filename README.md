@@ -10,11 +10,20 @@ The application is using Google CSE to persist images, 10 per time.
 
 # Installation
 ```
+git clone https://github.com/Barylskyigb/ImageSearch.git
+cd ImageSearch
 npm install
 ```
 
 # Running
+
+```
+react-native start
+```
+
 ```
 react-native run-android
 react-native run-ios
 ```
+
+P.S: was not tested on iOS yet. Will be fixed today.
