@@ -26,4 +26,6 @@ react-native run-android
 react-native run-ios
 ```
 
+Release apk: https://www.dropbox.com/s/ftutmfd2umt4gui/SearchImages.apk?dl=0
+
 P.S: was not tested on iOS yet. Will be fixed today.
